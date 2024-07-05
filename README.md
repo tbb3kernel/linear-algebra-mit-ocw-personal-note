@@ -1,2 +1,2 @@
 # linear-algebra-mit-ocw-personal-note
-Just personal linear algebra note for me but I hope it'll be useful to you 😊
+These are my personal linear algebra notes, but I hope you find them useful. 😊
